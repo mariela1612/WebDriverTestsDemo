@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverTestsDemo", "WebDriverTestsDemo\WebDriverTestsDemo.csproj", "{0F21FF9A-C09F-4413-B254-05B4110A3991}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitWebDriverTests", "NunitWebDriverTests\NunitWebDriverTests.csproj", "{B7CFF58B-F730-469A-A711-EE28A8D3268B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F21FF9A-C09F-4413-B254-05B4110A3991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F21FF9A-C09F-4413-B254-05B4110A3991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F21FF9A-C09F-4413-B254-05B4110A3991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CFF58B-F730-469A-A711-EE28A8D3268B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CFF58B-F730-469A-A711-EE28A8D3268B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CFF58B-F730-469A-A711-EE28A8D3268B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CFF58B-F730-469A-A711-EE28A8D3268B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
