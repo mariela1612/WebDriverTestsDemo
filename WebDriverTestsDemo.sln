@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverTestsDemo", "WebDr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitWebDriverTests", "NunitWebDriverTests\NunitWebDriverTests.csproj", "{B7CFF58B-F730-469A-A711-EE28A8D3268B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDrivenTestingCalculator", "DataDrivenTestingCalculator\DataDrivenTestingCalculator.csproj", "{1909A089-27A0-4F50-84EF-215BAC0F930B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B7CFF58B-F730-469A-A711-EE28A8D3268B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7CFF58B-F730-469A-A711-EE28A8D3268B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7CFF58B-F730-469A-A711-EE28A8D3268B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1909A089-27A0-4F50-84EF-215BAC0F930B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1909A089-27A0-4F50-84EF-215BAC0F930B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1909A089-27A0-4F50-84EF-215BAC0F930B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1909A089-27A0-4F50-84EF-215BAC0F930B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
